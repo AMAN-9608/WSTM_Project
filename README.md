@@ -11,5 +11,9 @@ We have evaluated and compared the results obtained from each model. Our first a
 
 |Model|MAE|MSE|
 |-----|---|---|
-||||
+|Item-Item Collaborative Filtering| 2.851| 11.518|
+|NCF with Matrix Factorization| 0.97| 1.426|
+|Neural Matrix Factorization (NeuMF) |0.784 |1.002|
+|NeuMF with Book Genres |0.779| 0.964|
+|Wide-and-Deep Recommendation Model| 0.717| 0.774|
 
