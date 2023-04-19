@@ -9,3 +9,7 @@ The dataset used for this project comes from the book cataloging website Goodrea
 We have evaluated and compared the results obtained from each model. Our first approach, which serves as a baseline for the remaining models, is Item-Item Collaborative Filtering. Here, we directly used the ratings given by users for different books for predicting user ratings. We later improved upon the predictions obtained from this model by generating embeddings for users and items using Matrix Factorization, and then later trained MLP and NeuMF for predicting the final rating given by a user for a particular book. The Wide-and-Deep model approach gave us the lowest Mean Squared Absolute error, which was our metric for measuring performance.
 </p>
 
+|Model|MAE|MSE|
+|-----|---|---|
+||||
+
