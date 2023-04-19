@@ -18,4 +18,5 @@ We have evaluated and compared the results obtained from each model. Our first a
 |NeuMF with Book Genres |0.779| 0.964|
 |Wide-and-Deep Recommendation Model| 0.717| 0.774|
 
-The Wide-and-Deep model approach gave us the lowest Mean Squared Absolute error, marginally better than NCF models and significantly improved over Item-Item CF.
+<p align="justify">
+The Wide-and-Deep model approach gave us the lowest Mean Squared Absolute error, marginally better than NCF models and significantly improved over Item-Item CF.</p>
